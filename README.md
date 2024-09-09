@@ -9,7 +9,6 @@ To demonstrate my skills in network forensics and packet capture analysis using 
 ## Tools Used
 - **NetworkMiner 2.7.2**: Network forensic analysis tool for Windows.
 - **Ubuntu**: Operating system used to run NetworkMiner.
-- **Wireshark**: An additional tool for detailed packet analysis (optional).
 
 ---
 
@@ -42,14 +41,12 @@ To demonstrate my skills in network forensics and packet capture analysis using 
 ## Screenshots
 Below are screenshots demonstrating the analysis process and the results:
 
-### NetworkMiner 2.7.2 Interface
-![NetworkMiner 2.7.2](https://via.placeholder.com/150)
-
 ### Extracted Metadata from `mx-3.pcap`
-![Extracted Metadata](https://via.placeholder.com/150)
+![Extracted Metadata](https://github.com/user-attachments/assets/74897780-2fac-4286-90d3-f07828a5b9bc)
 
 ### Extracted Credentials from `mx-4.pcap`
-![Extracted Credentials](https://via.placeholder.com/150)
+![Extracted Credentials](https://github.com/user-attachments/assets/89e6fd05-70f8-40d2-83b2-10b88efe1fd0)
+
 
 ---
 
