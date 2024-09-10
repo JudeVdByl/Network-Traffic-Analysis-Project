@@ -63,7 +63,7 @@ Below are screenshots demonstrating the analysis process and the results:
 ![Extracted Credentials](https://github.com/user-attachments/assets/89e6fd05-70f8-40d2-83b2-10b88efe1fd0)
 
 ### Additional Findings from Extended Analysis
-![Further Analysis](https://github.com/user-attachments/assets/f1ee9634-f5fa-40a9-9b82-d25b6217da3a)  # Link to images from the extended analysis
+![Further Analysis](https://github.com/user-attachments/assets/f1ee9634-f5fa-40a9-9b82-d25b6217da3a) 
 
 
 ---
